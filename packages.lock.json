@@ -4,17 +4,17 @@
     "net6.0": {
       "jQuery.Validation": {
         "type": "Direct",
-        "requested": "[1.8.0, )",
-        "resolved": "1.8.0",
-        "contentHash": "HPul/Lqnn2ke6mQr9H5dbhaOItTgQwpZQhXEvFoADu/jVndJrjsZ7QQXTNyLjIZXmJkblqONKdhKc5hXvq1KrA==",
+        "requested": "[1.19.5, )",
+        "resolved": "1.19.5",
+        "contentHash": "lBHoaszLpKYxiVCWwIoxdqSCrlqnW9jeVMinMQ0uNMFcl3rmY8XyeaerfGLRbkVRUzh/fM3APaKepEezrR5AcA==",
         "dependencies": {
-          "jQuery": "[1.3.2, 1.6.0]"
+          "jQuery": "1.4.4"
         }
       },
       "jQuery": {
         "type": "Transitive",
-        "resolved": "1.4.1",
-        "contentHash": "03J0RdIC52hnLJzZhRVLs2S6VrzQVysGRxwKLl0Pqsa/+ws+z53rmlM4w8WfWnHqZsZGWh0x4xBTxeJhOBtTRw=="
+        "resolved": "1.4.4",
+        "contentHash": "kexCeYIZehR5fRjo8CK1sngN5SZEQRFNfCYZHMS1RxwEEiSKetBw/gliYJcLJdJEBB+e9aHqleLCjuaSI7u23g=="
       }
     }
   }
